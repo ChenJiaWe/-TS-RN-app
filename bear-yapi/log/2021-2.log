@@ -1,0 +1,57 @@
+[ 2021-2-1 9:05:32 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-1 9:05:54 AM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-1 9:05:54 AM ] [ error ] MongoTimeoutError: Server selection timed out after 30000 ms, mongodb Authentication failed
+[ 2021-2-1 9:05:54 AM ] [ log ] mongodb load success...
+[ 2021-2-1 11:01:11 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-1 11:01:15 AM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-1 11:01:15 AM ] [ log ] mongodb load success...
+[ 2021-2-1 2:41:45 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-1 2:41:51 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-1 2:41:51 PM ] [ log ] mongodb load success...
+[ 2021-2-2 9:35:49 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 9:35:54 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 9:35:57 AM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-2 9:35:57 AM ] [ log ] mongodb load success...
+[ 2021-2-2 4:51:07 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 4:51:41 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-2 4:51:41 PM ] [ error ] MongoTimeoutError: Server selection timed out after 30000 ms, mongodb Authentication failed
+[ 2021-2-2 4:51:41 PM ] [ log ] mongodb load success...
+[ 2021-2-2 5:16:13 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 5:16:17 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-2 5:16:17 PM ] [ log ] mongodb load success...
+[ 2021-2-2 7:19:55 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 7:20:09 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-2 7:20:09 PM ] [ log ] mongodb load success...
+[ 2021-2-2 8:49:04 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 8:49:35 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-2 8:49:35 PM ] [ error ] MongoTimeoutError: Server selection timed out after 30000 ms, mongodb Authentication failed
+[ 2021-2-2 8:49:35 PM ] [ log ] mongodb load success...
+[ 2021-2-2 8:49:42 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-2 8:49:42 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-2 8:49:42 PM ] [ log ] mongodb load success...
+[ 2021-2-3 9:41:51 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-3 9:41:58 AM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-3 9:41:58 AM ] [ log ] mongodb load success...
+[ 2021-2-4 9:37:57 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-4 9:38:11 AM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-4 9:38:11 AM ] [ error ] MongoTimeoutError: Server selection timed out after 30000 ms, mongodb Authentication failed
+[ 2021-2-4 9:38:11 AM ] [ log ] mongodb load success...
+[ 2021-2-4 10:51:48 AM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-4 10:51:51 AM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-4 10:51:52 AM ] [ log ] mongodb load success...
+[ 2021-2-6 12:09:07 PM ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021-2-6 12:09:14 PM ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3001/
+[ 2021-2-6 12:09:14 PM ] [ log ] mongodb load success...
